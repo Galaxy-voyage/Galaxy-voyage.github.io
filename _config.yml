@@ -1,1 +1,5 @@
 theme: yilia
+deploy:
+    type: git
+    repo: git@github.com:Galaxy-voyage/Galaxy-voyage.github.io.git
+    branch: master  
